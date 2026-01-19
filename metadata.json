@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ANNIE - AI 虚拟伴侣",
+  "description": "功能丰富的 AI 伴侣应用，支持实时语音 (Gemini Live)、图像生成 (ComfyUI 集成) 以及高度自定义的角色人设。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
